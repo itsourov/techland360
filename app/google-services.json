@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421129869342",
+    "project_id": "techland360-app",
+    "storage_bucket": "techland360-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421129869342:android:958b0a5e28cfeb0666b60f",
+        "android_client_info": {
+          "package_name": "com.techland360.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421129869342-ijgbrte953cpvlrk2cdqn5l894t1n92k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techland360.app",
+            "certificate_hash": "5f244af76e3b9e50e93199b12e6bc711f4e65615"
+          }
+        },
+        {
+          "client_id": "421129869342-5o33sb0clqmldtvrr28329179v3hh51f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTF20SAS2uKWAX9kdBbaTGYzZAEJELhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421129869342-5o33sb0clqmldtvrr28329179v3hh51f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
